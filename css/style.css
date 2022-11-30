@@ -1,0 +1,411 @@
+#logo {
+    width: 30px;
+    margin-left: 25px;
+}
+
+body {
+
+    
+    
+}
+
+
+
+.yello {
+    color: #FFCB46;
+}
+
+.navbar {
+  background-color:#6B1EA8; 
+  font-weight: 550; 
+  color: #FFFF;
+}
+
+.nav-item:hover{
+    font-size: large;
+    
+}
+
+
+
+#estilo {
+    background: #FFCB46;
+    color: black;
+    border: 0px;
+    border-radius: 15px;
+    width: 220px;
+    height: 40px;
+    margin-top: -9px;
+    font-weight: 550; 
+}
+
+#white {
+    color: #FFFF;
+    
+}
+
+.one {
+    background: url(../imagens/Mask\ group.png);
+    height: 650px;
+    
+}
+
+.one form {
+    margin-top: 20vh;
+    color: #FFFF;
+    font-weight: 550;
+
+}
+.one h1 {
+
+    margin-top: 20vh;
+    color: #FFFF;
+}
+
+.one p {
+    color: #FFFF;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.one button {
+    background: #FFCB46;
+    color: black;
+    border: 0px;
+    border-radius: 15px;
+    height: 40px;
+    width: 220px;
+    font-weight: 550;
+}
+
+.two img {
+
+    border-radius: 15px;
+    width: 80%;
+    height: 80%;
+    margin-top: 80px;
+    
+
+
+}
+
+.two .row{
+    text-align: center;
+}
+
+
+
+.two h2{
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 10%;
+}
+.two p{
+    font-weight: 370;
+    font-size: 25px;
+    
+}
+
+.three{
+    margin-bottom: 5%;
+}
+
+.three img {
+
+    width: 30%;
+    margin-top: 80px;
+    
+
+}
+
+.three .row{
+    text-align: center;
+}
+
+.three h2{
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 3%;
+}
+
+.three p{
+    font-weight: 100;
+    font-size: 20px;
+   
+}
+
+.four{
+   background-color: #FFCB46;
+   padding: 3%;
+}
+
+.four img{
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+    width: 100%;
+    height: 100%;
+    border-radius: 10%;
+    
+    
+    
+}
+
+.four h2{
+    margin-top: 30%;
+    font-size: 40px;
+    font-weight: 700;
+    text-align:center ;
+}
+.four p{
+    margin-left: 10%;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 350;
+}
+
+footer{
+    text-align: center;
+    color: #FFFFFF;
+    background: #6B1EA8;
+    height: 20%;
+    width: 100%;
+    padding: 50px;
+    font-weight: 100;
+    
+}
+
+footer h1 {
+
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.OneQS{
+    background: url(../imagens/pexels-sathesh-d-698808.jpg);
+    background-size: cover;      
+    height: 300px;
+    
+    
+    
+    
+}
+
+.OneQS .row h1{
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 10%;
+ 
+    
+}
+
+.twoQS h3{
+    color: #000000;
+    font-weight: 500;
+    text-align: center;
+}
+
+.twoQS p{
+    color: #000000;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+}
+
+#ColunaVisao{
+    background-color:#FFCB46;
+   
+    
+}
+
+#ColunaVisao h4 {
+    font-weight: 500;   
+
+}
+
+#ColunaVisao p {
+    font-size: 17px;   
+    font-weight: 500;
+    padding-top: 20px;
+    text-align: 
+
+}
+
+#ColunaCompetencias{
+    background-color:#8FFFF8;
+}
+
+#ColunaCompetencias h4 {
+    font-weight: 500;   
+
+}
+
+#ColunaCompetencias p {
+    font-size: 17px;   
+    font-weight: 500;
+    padding-top: 20px;
+    text-align: 
+
+}
+#ColunaRecursos{
+    background-color:#C070FF;
+}
+
+#ColunaRecursos h4 {
+    font-weight: 500;   
+
+}
+
+#ColunaRecursos p {
+    font-size: 17px;   
+    font-weight: 500;
+    padding-top: 20px;
+    
+
+}
+#ColunaInfraestrutura{
+    background-color:#FF8383;
+}
+
+#ColunaInfraestrutura h4 {
+    font-weight: 500;   
+
+}
+
+#ColunaInfraestrutura p {
+    font-size: 17px;   
+    font-weight: 500;
+    padding-top: 20px;
+    
+
+}
+
+.fiveQS {
+    margin-top:5%;
+    
+}
+
+.fiveQS img{
+    width: 80%;
+    background-color: #6969695d;
+    padding:10%;
+    border-radius:50%;
+    align-items: center;
+    
+}
+
+.fiveQS h2{
+    font-weight: 800;
+    font-size: 20px;
+    
+}
+
+.fiveQS p{
+    font-weight:400;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.sixQS {
+    margin-top: 5%;
+    background-color: rgba(255, 255, 0, 0.253);
+    padding: 3%;
+    
+}
+
+.sixQS h2{
+    font-weight: 800;
+    font-size: 20px;
+    margin-top:20%;
+    
+}
+
+.sixQS p{
+    font-weight:500;
+    font-size: 20px;
+   
+    
+}
+
+.sixQS img{
+    width: 80%;
+    border-radius: 1%;  
+    
+
+}
+
+.sevenQS{
+    height:1vh;   
+    background-color: orange;
+}
+
+.eightQS {
+    
+    background-color: rgba(255, 255, 0, 0.253);
+    padding: 3%;
+    
+}
+
+.eightQS h2{
+    font-weight: 800;
+    font-size: 20px;
+    margin-top:20%;
+    
+}
+
+.eightQS p{
+    font-weight:500;
+    font-size: 20px;
+   
+    
+}
+
+.eightQS img{
+    width: 80%; 
+    border-radius: 1%;     
+
+}
+
+.OneC h1{
+    font-size: 40px;
+    font-weight: 300;
+    color: #000000;
+}
+
+.TwoC form{
+    font-weight: 550;
+    color: #000000;
+}
+
+.ThreeC{
+    background: url(../imagens/pexels-olena-bohovyk-17721232.png);
+    height: 300px;
+    background-size: cover;
+}
+
+.OneCadastro h1{
+    font-size: 40px;
+    font-weight: 300;
+    color: #000000;
+}
+
+.TwoCadastro form{
+    font-weight: 550;
+    color: #000000;
+}
+
+.ThreeCadastro{
+    background: url(../imagens/pexels-pixabay-270348.jpg);
+    height: 300px;
+    background-size: cover;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+.TwoCadastro img{
+    width: 100%;
+}
