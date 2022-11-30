@@ -1,3 +1,2 @@
 # Projeto-NivelaTech
- Desenvolvemos um site onde as escolas públicas podem se cadastrar e avaliar se estão utilizando as tecnologias de forma efetiva.
-
+ Nesse site as escolas públicas podem se cadastrar e avaliar se estão utilizando as tecnologias atuais de forma efetiva, afim de promover um equilíbrio entre escolas públicas e particulares.
